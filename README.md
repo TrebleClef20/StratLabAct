@@ -45,6 +45,7 @@ public class Character {
 
 # UML Class Diagram
 
-![Laboratory SW Strat Pattern](https://github.com/TrebleClef20/StratLabAct/assets/65029347/fa77b116-5218-426b-b040-e86c972223c8)
+![Laboratory SW Strat Pattern](https://github.com/TrebleClef20/StratLabAct/assets/65029347/889ce5a1-59c5-405a-8977-3944ad1845b3)
+
 
 
