@@ -45,5 +45,6 @@ public class Character {
 
 # UML Class Diagram
 
-![Treb Lab Assignment 6 Adapter Pattern](https://github.com/TrebleClef20/adapterPattern/assets/65029347/8e2da39c-a444-44b1-a5ff-4443c8651858)
+![StratPatternLabAct](https://github.com/TrebleClef20/StratLabAct/assets/65029347/7b3b3d1d-5c58-4bdf-a15c-b589f2cc1469)
+
 
